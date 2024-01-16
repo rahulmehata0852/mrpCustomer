@@ -1,0 +1,13 @@
+{
+  "name": "mrpcustomer",
+  "displayName": "mrpcustomer",
+  "expo": {
+    "runtimeVersion": "1.0.0",
+    "plugins": [],
+    "ios": {},
+    "version": "1.0.2",
+    "android": {
+      "versionCode": 5
+    }
+  }
+}
